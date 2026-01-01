@@ -14,7 +14,7 @@ OR: FME version of this phyton script with the addition of übers: [https://gith
 5. You get a KML export of the result
 
 **Requirements**
-- FME licence. Created in FME
+- FME licence. Created in FME 2023.2.2.0
 
 
 **Credits**
