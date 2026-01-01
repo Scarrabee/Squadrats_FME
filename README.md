@@ -18,5 +18,5 @@ OR: FME version of this phyton script with the addition of übers: [https://gith
 
 
 **Credits**
-Based on data from [Squadrats](https://squadrats.com/map) - A game about exploring the world, one square at a time.
-[[https://github.com/matthew-conner/Squadrat-Extension/blob/main/README.md](https://github.com/matthew-conner/Squadrat-Extension/blob/main/README.md)](https://github.com/matthew-conner/Squadrat-Extension/blob/main/README.md#squadrats-local-yard-finder)
+-Based on data from [Squadrats](https://squadrats.com/map) - A game about exploring the world, one square at a time.
+-[[https://github.com/matthew-conner/Squadrat-Extension/blob/main/README.md](https://github.com/matthew-conner/Squadrat-Extension/blob/main/README.md)](https://github.com/matthew-conner/Squadrat-Extension/blob/main/README.md#squadrats-local-yard-finder)
