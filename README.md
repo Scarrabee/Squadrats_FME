@@ -2,7 +2,7 @@
 FME workspace for Processing Squadrats KML Files: Generating Yards and übersquares
 OR: FME version of this phyton script with the addition of übers: [https://github.com/matthew-conner/Squadrat-Extension/blob/main/README.md](https://github.com/matthew-conner/Squadrat-Extension/blob/main/README.md)
 
-**Version 0.6 - 01/01/2026**
+**Version 0.6 - 03/01/2026**
 - It aint pretty but it works!
 - über part is still wip but now it finds al ubers up tot 36x36. still needs filtering to get usefull info
 
